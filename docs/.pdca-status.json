@@ -1,18 +1,41 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-02-16T19:52:06.502Z",
-  "activeFeatures": [],
-  "primaryFeature": null,
-  "features": {},
+  "lastUpdated": "2026-02-17T01:00:00.000Z",
+  "activeFeatures": ["환급액계산프로그램"],
+  "primaryFeature": "환급액계산프로그램",
+  "features": {
+    "환급액계산프로그램": {
+      "phase": "design",
+      "planDoc": "docs/01-plan/features/tax-refund-system.plan.md",
+      "designDoc": "docs/02-design/features/환급액계산프로그램.design.md",
+      "startedAt": "2026-02-17T00:00:00.000Z",
+      "lastActivity": "2026-02-17T01:00:00.000Z"
+    }
+  },
   "pipeline": {
-    "currentPhase": 1,
-    "level": "Dynamic",
-    "phaseHistory": []
+    "currentPhase": 2,
+    "level": "Enterprise",
+    "phaseHistory": [
+      { "phase": 1, "completedAt": "2026-02-17T01:00:00.000Z" }
+    ]
   },
   "session": {
     "startedAt": "2026-02-16T19:52:06.502Z",
-    "onboardingCompleted": false,
-    "lastActivity": "2026-02-16T19:52:06.502Z"
+    "onboardingCompleted": true,
+    "lastActivity": "2026-02-17T01:00:00.000Z"
   },
-  "history": []
+  "history": [
+    {
+      "action": "plan_created",
+      "feature": "환급액계산프로그램",
+      "timestamp": "2026-02-17T00:00:00.000Z",
+      "details": "Plan document created by Product Manager Agent (tax-refund-system.plan.md)"
+    },
+    {
+      "action": "design_created",
+      "feature": "환급액계산프로그램",
+      "timestamp": "2026-02-17T01:00:00.000Z",
+      "details": "Design document created (환급액계산프로그램.design.md) - Enterprise Clean Architecture"
+    }
+  ]
 }

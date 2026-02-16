@@ -1,25 +1,14 @@
 {
   "version": "1.0",
-  "enabled": true,
+  "enabled": false,
   "teamName": "",
-  "feature": "",
-  "pdcaPhase": "plan",
+  "feature": "환급액계산프로그램",
+  "pdcaPhase": "design",
   "orchestrationPattern": "leader",
   "ctoAgent": "opus",
-  "startedAt": "2026-02-16T19:58:46.960Z",
-  "lastUpdated": "2026-02-16T19:58:46.967Z",
-  "teammates": [
-    {
-      "name": "a48863d",
-      "role": "Explore",
-      "model": "sonnet",
-      "status": "spawning",
-      "currentTask": null,
-      "taskId": null,
-      "startedAt": "2026-02-16T19:58:46.967Z",
-      "lastActivityAt": "2026-02-16T19:58:46.967Z"
-    }
-  ],
+  "startedAt": "2026-02-16T20:52:32.008Z",
+  "lastUpdated": "2026-02-16T21:23:04.725Z",
+  "teammates": [],
   "progress": {
     "totalTasks": 0,
     "completedTasks": 0,
@@ -28,5 +17,5 @@
     "pendingTasks": 0
   },
   "recentMessages": [],
-  "sessionId": "402729e8-eab1-46c9-9033-f8ff059b84ff"
+  "sessionId": "dd8787a9-0638-46ad-ab4b-de57e83a0c20"
 }
