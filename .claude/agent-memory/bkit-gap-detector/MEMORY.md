@@ -24,7 +24,13 @@
 
 ### File Paths
 - Design: docs/02-design/features/환급액계산프로그램.design.md
+- Dev Design v1.0: old-doc/04-development-design.md (1,212 lines, 12 sections)
+- Dev Design v2.0: old-doc/07-development-design-v2.md (~1,520 lines, 14 sections)
+- Gap Analysis (prompt coverage): old-doc/06-gap-analysis-prompt-coverage.md (34 gaps)
 - Analysis: docs/03-analysis/features/환급액계산프로그램.analysis.md
 - Individual prompt: 개인사업자-프롬프트_v1.3.md (~1,420 lines)
 - Corporate prompt: 법인사업자-프롬프트_v1.3.md (~2,000+ lines)
 - Previous validation: docs/02-design/design-validation-report.md (78/100)
+- Schema: old-doc/02-entity-schema.md (83 tables)
+- Entity Relations: old-doc/03-entity-relationship.md
+- Glossary: old-doc/01-glossary.md (9 sections)
