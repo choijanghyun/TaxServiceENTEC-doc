@@ -9,7 +9,7 @@
       "planDoc": "docs/01-plan/features/tax-refund-system.plan.md",
       "designDoc": "docs/02-design/features/환급액계산프로그램.design.md",
       "startedAt": "2026-02-17T00:00:00.000Z",
-      "lastActivity": "2026-02-17T14:15:00.000Z",
+      "lastActivity": "2026-02-18T10:00:00.000Z",
       "devDesignDoc": "old-doc/04-development-design.md",
       "devDesignDocV2": "old-doc/07-development-design-v2.md"
     }
@@ -24,7 +24,7 @@
   "session": {
     "startedAt": "2026-02-16T19:52:06.502Z",
     "onboardingCompleted": true,
-    "lastActivity": "2026-02-17T15:30:00.000Z"
+    "lastActivity": "2026-02-18T10:00:00.000Z"
   },
   "history": [
     {
@@ -50,6 +50,12 @@
       "feature": "환급액계산프로그램",
       "timestamp": "2026-02-17T15:30:00.000Z",
       "details": "Development design v2.0 created in old-doc/07-development-design-v2.md (~1520 lines, 14 sections) - All 34 gaps addressed, M4 22 submodules, 107 validation rules, 2018-2025 tax rates"
+    },
+    {
+      "action": "dev_design_v2.1_updated",
+      "feature": "환급액계산프로그램",
+      "timestamp": "2026-02-18T10:00:00.000Z",
+      "details": "Development design v2.1 updated - Critical 6 gaps from v4.0 comparison (91.2%) addressed: M1-04~12 (9 input validation), P1-01~08 (8 INC input), F11 (employment additional credit), F-COM-01 (post-management surcharge), R&D min tax exemption 3-tier, external data refresh process"
     }
   ]
 }
